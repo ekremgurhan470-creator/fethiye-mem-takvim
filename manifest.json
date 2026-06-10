@@ -1,0 +1,22 @@
+{
+  "name": "Fethiye İlçe MEM Etkinlik Takvimi",
+  "short_name": "MEM Takvim",
+  "description": "Fethiye İlçe Milli Eğitim Müdürlüğü Etkinlik Takvimi",
+  "start_url": "/fethiye-mem-takvim/",
+  "display": "standalone",
+  "background_color": "#1a237e",
+  "theme_color": "#1a237e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "ikon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "ikon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
